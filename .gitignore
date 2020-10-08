@@ -1,9 +1,9 @@
-*/.aux
-*/.log
-*/.nav
-*/.out
-*/.snm
+*.aux
+*.log
+*.nav
+*.out
+*.snm
 */.gz
-*/.toc
-*/.bcf
-*/.xml
+*.toc
+*.bcf
+*.xml
