@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.28)  8 OCT 2020 00:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.28)  9 OCT 2020 08:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -140,22 +140,22 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (./GestionRiesgos.aux)
 \openout1 = `GestionRiesgos.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 \AtBeginShipoutBox=\box27
-Package hyperref Info: Link coloring OFF on input line 13.
+Package hyperref Info: Link coloring OFF on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -165,18 +165,18 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count98
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
 
 (./GestionRiesgos.out) (./GestionRiesgos.out)
 \@outlinefile=\write3
 \openout3 = `GestionRiesgos.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 15.
+(Font)              <14.4> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <7> on input line 20.
  (./GestionRiesgos.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
@@ -189,116 +189,91 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout4 = `GestionRiesgos.toc'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--24
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 26--30
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--43
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 44.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 49.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 58--59
+Underfull \hbox (badness 2608) in paragraph at lines 63--64
 \OT1/cmr/m/n/12 maci^^Son al no tener un buen
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 59--60
+Underfull \hbox (badness 3668) in paragraph at lines 64--65
 []\OT1/cmr/m/n/12 Los equipos ac-tuales con los
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--65
+Underfull \hbox (badness 10000) in paragraph at lines 56--70
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 67--70
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
 
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 77--78
+Underfull \hbox (badness 2818) in paragraph at lines 82--83
 []\OT1/cmr/m/n/12 Un miebro del
  []
 
 
-Overfull \hbox (94.18987pt too wide) in paragraph at lines 71--80
+Overfull \hbox (94.18987pt too wide) in paragraph at lines 76--85
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--80
+Underfull \hbox (badness 10000) in paragraph at lines 76--85
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
 
-Underfull \hbox (badness 3396) in paragraph at lines 90--90
+Underfull \hbox (badness 3396) in paragraph at lines 95--95
 []\OT1/cmr/m/n/12 Rotaci^^Son del
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 []\OT1/cmr/m/n/12 Retraso de
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 91--91
+Underfull \hbox (badness 3724) in paragraph at lines 96--96
 \OT1/cmr/m/n/12 las Es-pecidi-
- []
-
-
-Overfull \hbox (3.81976pt too wide) in paragraph at lines 91--91
-[]\OT1/cmr/m/n/12 ORGANIZACI[]ON| 
- []
-
-
-Underfull \hbox (badness 6758) in paragraph at lines 92--93
-[]\OT1/cmr/m/n/12 Una per-sona del
- []
-
-
-Underfull \hbox (badness 3460) in paragraph at lines 92--93
-\OT1/cmr/m/n/12 proyecto mu-rio o
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--93
-[]\OT1/cmr/m/n/12 Defectos en
- []
-
-
-Overfull \hbox (3.81976pt too wide) in paragraph at lines 93--93
-[]\OT1/cmr/m/n/12 ORGANIZACI[]ON| 
  []
 
 
@@ -307,57 +282,82 @@ Overfull \hbox (3.81976pt too wide) in paragraph at lines 96--96
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 6758) in paragraph at lines 97--98
+[]\OT1/cmr/m/n/12 Una per-sona del
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 97--98
+\OT1/cmr/m/n/12 proyecto mu-rio o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]\OT1/cmr/m/n/12 Defectos en
+ []
+
+
+Overfull \hbox (3.81976pt too wide) in paragraph at lines 98--98
+[]\OT1/cmr/m/n/12 ORGANIZACI[]ON| 
+ []
+
+
+Overfull \hbox (3.81976pt too wide) in paragraph at lines 101--101
+[]\OT1/cmr/m/n/12 ORGANIZACI[]ON| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 []\OT1/cmr/m/n/12 El tiempo re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 \OT1/cmr/m/n/12 querido del
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 \OT1/cmr/m/n/12 proyecto este
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 \OT1/cmr/m/n/12 equipo no cuen-
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 97--98
+Underfull \hbox (badness 1546) in paragraph at lines 102--103
 \OT1/cmr/m/n/12 tan con su-fi-ciente
  []
 
 
-Underfull \hbox (badness 2951) in paragraph at lines 97--98
+Underfull \hbox (badness 2951) in paragraph at lines 102--103
 \OT1/cmr/m/n/12 dinero para com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 \OT1/cmr/m/n/12 prar dis-pos-ti-tivos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 []\OT1/cmr/m/n/12 La com-puta-dora
  []
 
 
-Underfull \hbox (badness 6047) in paragraph at lines 98--99
+Underfull \hbox (badness 6047) in paragraph at lines 103--104
 \OT1/cmr/m/n/12 de un in-te-grante
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\OT1/cmr/m/n/12 Peridida de
  []
 
 
-Overfull \hbox (57.20119pt too wide) in paragraph at lines 84--102
+Overfull \hbox (57.20119pt too wide) in paragraph at lines 89--107
 [][] 
  []
 
@@ -366,30 +366,30 @@ Overfull \vbox (7.88068pt too high) has occurred while \output is active []
 
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--111
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
 [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
  (./GestionRiesgos.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `GestionRiesgos.out' has not changed.
 (rerunfilecheck)             Checksum: 9AD17BF5E16CD78A40AAC4E227FFC84C;449.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 4269 strings out of 494510
- 64084 string characters out of 6176236
- 155556 words of memory out of 5000000
- 7947 multiletter control sequences out of 15000+600000
+ 4268 strings out of 494510
+ 64071 string characters out of 6176236
+ 155696 words of memory out of 5000000
+ 7946 multiletter control sequences out of 15000+600000
  9155 words of font info for 32 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  28i,9n,28p,348b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -398,7 +398,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on GestionRiesgos.pdf (6 pages, 68920 bytes).
+Output written on GestionRiesgos.pdf (6 pages, 69056 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream
