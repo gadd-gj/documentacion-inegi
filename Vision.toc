@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Visión de la solución}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Declaración de la visión}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Características principales}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Suposiciones y dependencias}{3}{}%
+\contentsline {section}{\numberline {2}Alcance y limitaciones}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Alcance de la versión inicial}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Alcance de las versiones posteriores}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Limitaciones y exclusiones}{4}{}%
