@@ -1,9 +1,10 @@
 **/*.aux
-**/*.long
+**/*.log
 **/*.nav
 **/*.out
-**/*.tnm
+**/*.snm
 **/*.gz
 **/*.toc
 **/*.bcf
 **/*.xml
+
